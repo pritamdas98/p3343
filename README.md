@@ -1,8 +1,7 @@
 - 👋 I have completed  Bachelor of Technology Computer Science engineering guru nanak institute of technology , kolkata
 - 👀 I’m interested in coding ..
 - 🌱 I’m currently learning data science and data analysis...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 project
 Tagify - A Windows Application made using C# for tagging files with custom tags and searching them on basis of tags.
