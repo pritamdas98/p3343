@@ -9,7 +9,6 @@ videos = yt_1.streams.all()
 vid = list(enumerate(videos))
 for i in vid:
     print(i)
-
 strm = int(input("Enter: "))
 videos[strm].download()
 print("Successfully"
